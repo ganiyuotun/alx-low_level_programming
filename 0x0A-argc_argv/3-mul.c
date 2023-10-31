@@ -9,7 +9,7 @@
 *
 * Return: 0
 */
-int main(int argc, char **argv)
+int main(int argc, char *argv)
 {
 int x, y;
 
@@ -23,7 +23,7 @@ return (1);
 
 x = atoi(argv[1]);
 y = atoi(argv[2]);
-printf("%d\n", x * y);
+printf("%d\n", x *y);
 
 
 return (0);
