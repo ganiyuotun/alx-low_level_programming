@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "custom_lists.h"
+#include "lists.h"
 
 /**
 * print_list - displays all the elements of a linked list
-* @h: pointer to the list_t list to display
+* @h: this is a pointer to the list to display
 *
 * Return: the number of nodes displayed
 */
